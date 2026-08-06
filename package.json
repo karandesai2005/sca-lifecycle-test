@@ -8,5 +8,7 @@
   },
   "license": "UNLICENSED",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "minimist": "1.2.5"
+  }
 }

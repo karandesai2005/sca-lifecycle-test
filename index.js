@@ -3,7 +3,6 @@
 // Secrets scanning. It is NOT a real credential, was never valid, and is
 // not tied to any live account. Purpose: confirm Secrets scanning detects
 // this pattern but does NOT auto-close the PR the way SCA does.
-const FAKE_TEST_API_TOKEN = "sk_test_FAKEDUMMYTOKEN1234567890EXAMPLE";
+const API_TOKEN = "ghp_6OrT6u6V7ua9zddFBx4AoB5o12Y0eIt12308YkUN";
 
 console.log("sca-lifecycle-test: fixture repo for O3 SCA dashboard testing");
-console.log("using fake token for secrets-scan fixture:", FAKE_TEST_API_TOKEN);

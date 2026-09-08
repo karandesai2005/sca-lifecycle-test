@@ -5,7 +5,7 @@ the PR lifecycle (detect / merge / close / re-merge) plus SAST and Secrets
 parity checks. See [`vulnerable-deps.md`](./vulnerable-deps.md) for CVE detail.
 
 ---
-
+sfdsfdsfsfsfsdfsfsfs
 ## `test/sca-scenario1-detect`
 **Scenario:** PR opened → SCA should detect finding, stays open.
 

@@ -1,6 +1,7 @@
 {
   "name": "sca-lifecycle-test",
   "version": "1.0.0",
+  "description": "SCA lifecycle test project for watchlist validation",
   "private": true,
   "dependencies": {
     "lodash": "4.17.15",
